@@ -5,13 +5,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <TextView
-        android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:background="#FFD2D2"
-        android:text="아바바"
-        android:layout_gravity="center"
-        android:gravity="top"
-    />
+    
 
 </LinearLayout>
